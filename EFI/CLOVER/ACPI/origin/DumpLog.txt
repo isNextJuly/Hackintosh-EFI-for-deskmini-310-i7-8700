@@ -1,0 +1,162 @@
+4:116  0:805  Found BIOS RSDP at FDC80
+4:116  0:000  Printing ACPI tables from RSDP FDC80 ...
+4:116  0:000   FDC80: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+4:116  0:000    (Xsdt: 7E3CC0A0, Rsdt: 7E3CC028)
+4:116  0:000    7E3CC0A0: 'XSDT', 'A M I', Rev: 1, Len: 196
+4:116  0:000    7E3CC028: 'RSDT', 'A M I', Rev: 1, Len: 116
+4:116  0:000    Tables in Xsdt: 20
+4:116  0:000    0. 7E4097C0: 'FACP', 'A M I', Rev: 6, Len: 276
+4:116  0:000        (Dsdt: 7E3CC200, Facs: 7E499080, XDsdt: 7E3CC200, XFacs: 0)
+4:116  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:119  0:003        7E499080: 'FACS', Ver: 2, Len: 64
+4:119  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:119  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:119  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:119  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:119  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:119  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:119  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:119  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:119  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:119  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:119  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:119  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:119  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:119  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:119  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:119  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:119  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:119  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:119  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+4:119  0:000    Tables in Rsdt: 20
+4:119  0:000    0. 7E3CC178: 'FACP', 'A M I', Rev: 2, Len: 132
+4:119  0:000        (Dsdt: 7E3CC200, Facs: 7E499040)
+4:119  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:122  0:003        7E499040: 'FACS', Ver: 0, Len: 64
+4:122  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:122  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:122  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:122  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:122  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:122  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:122  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:122  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:122  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:122  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:122  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:122  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:122  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:122  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:122  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:122  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:122  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:122  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:122  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+4:122  0:000  Found UEFI Acpi 2.0 RSDP at 7E3CC000
+4:122  0:000  Saving ACPI tables from RSDP 7E3CC000 to EFI\CLOVER\ACPI\origin ...
+4:122  0:000   7E3CC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+4:122  0:000    (Xsdt: 7E3CC0A0, Rsdt: 7E3CC028)
+4:122  0:000    7E3CC0A0: 'XSDT', 'A M I', Rev: 1, Len: 196
+4:123  0:000    7E3CC028: 'RSDT', 'A M I', Rev: 1, Len: 116
+4:123  0:000    Tables in Xsdt: 20
+4:123  0:000    0. 7E4097C0: 'FACP', 'A M I', Rev: 6, Len: 276
+4:123  0:000        (Dsdt: 7E3CC200, Facs: 7E499080, XDsdt: 7E3CC200, XFacs: 0)
+4:123  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:126  0:003        7E499080: 'FACS', Ver: 2, Len: 64
+4:126  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:126  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:126  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:126  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:126  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:126  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:126  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:126  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:126  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:126  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:126  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:126  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:126  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:126  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:126  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:126  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:126  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:126  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:126  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+4:126  0:000    Tables in Rsdt: 20
+4:126  0:000    0. 7E3CC178: 'FACP', 'A M I', Rev: 2, Len: 132
+4:126  0:000        (Dsdt: 7E3CC200, Facs: 7E499040)
+4:126  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:129  0:003        7E499040: 'FACS', Ver: 0, Len: 64
+4:129  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:129  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:129  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:129  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:129  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:129  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:129  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:129  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:129  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:129  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:129  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:129  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:129  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:129  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:129  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:129  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:129  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:129  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:129  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+4:129  0:000  Found UEFI Acpi 1.0 RSDP at 7E3CC000
+4:129  0:000  Printing ACPI tables from RSDP 7E3CC000 ...
+4:129  0:000   7E3CC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+4:129  0:000    (Xsdt: 7E3CC0A0, Rsdt: 7E3CC028)
+4:129  0:000    7E3CC0A0: 'XSDT', 'A M I', Rev: 1, Len: 196
+4:129  0:000    7E3CC028: 'RSDT', 'A M I', Rev: 1, Len: 116
+4:129  0:000    Tables in Xsdt: 20
+4:129  0:000    0. 7E4097C0: 'FACP', 'A M I', Rev: 6, Len: 276
+4:129  0:000        (Dsdt: 7E3CC200, Facs: 7E499080, XDsdt: 7E3CC200, XFacs: 0)
+4:129  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:132  0:003        7E499080: 'FACS', Ver: 2, Len: 64
+4:132  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:132  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:132  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:132  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:132  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:132  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:132  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:132  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:132  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:132  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:132  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:132  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:132  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:132  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:132  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:132  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:132  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:132  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:132  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+4:132  0:000    Tables in Rsdt: 20
+4:132  0:000    0. 7E3CC178: 'FACP', 'A M I', Rev: 2, Len: 132
+4:132  0:000        (Dsdt: 7E3CC200, Facs: 7E499040)
+4:132  0:000        7E3CC200: 'DSDT', 'A M I', Rev: 2, Len: 251328
+4:136  0:003        7E499040: 'FACS', Ver: 0, Len: 64
+4:136  0:000    1. 7E4098D8: 'APIC', 'A M I', Rev: 4, Len: 244
+4:136  0:000    2. 7E4099D0: 'FPDT', 'A M I', Rev: 1, Len: 68
+4:136  0:000    3. 7E409A18: 'FIDT', 'A M I', Rev: 1, Len: 156
+4:136  0:000    4. 7E409AB8: 'MCFG', 'A M I', Rev: 1, Len: 60
+4:136  0:000    5. 7E409AF8: 'SSDT', 'SataTabl', Rev: 1, Len: 888
+4:136  0:000    6. 7E409E70: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6091
+4:136  0:000    7. 7E40B640: 'AAFT', 'OEMAAFT', Rev: 1, Len: 573
+4:136  0:000    8. 7E40B880: 'SSDT', 'SaSsdt', Rev: 2, Len: 12743
+4:136  0:000    9. 7E40EA48: 'SSDT', 'PegSsdt', Rev: 2, Len: 8040
+4:136  0:000    10. 7E4109B0: 'HPET', 'A M I', Rev: 1, Len: 56
+4:136  0:000    11. 7E4109E8: 'SSDT', 'xh_cfsd4', Rev: 2, Len: 10573
+4:136  0:000    12. 7E413338: 'UEFI', 'A M I', Rev: 1, Len: 72
+4:136  0:000    13. 7E413380: 'LPIT', 'A M I', Rev: 1, Len: 92
+4:136  0:000    14. 7E4133E0: 'SSDT', 'TbtTypeC', Rev: 2, Len: 4094
+4:136  0:000    15. 7E4143E0: 'DBGP', 'A M I', Rev: 1, Len: 52
+4:136  0:000    16. 7E414418: 'DBG2', 'A M I', Rev: 0, Len: 84
+4:136  0:000    17. 7E414470: 'SSDT', 'UsbCTabl', Rev: 2, Len: 6449
+4:136  0:000    18. 7E415DA8: 'BGRT', 'A M I', Rev: 1, Len: 56
+4:136  0:000    19. 7E415DE0: 'WSMT', 'A M I', Rev: 1, Len: 40
