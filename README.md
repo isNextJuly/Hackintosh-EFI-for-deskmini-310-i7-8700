@@ -1,0 +1,1 @@
+# Hackintosh-EFI-for-deskmini-310-i7-8700
