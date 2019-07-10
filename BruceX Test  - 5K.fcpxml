@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.2">
+    <project name="BruceX Test  - 5K " uid="06065177-6FBE-4E71-87F4-283549904A3A" eventID="E00EECDE-FB7D-4F8D-AC0C-18D6A39E6F4D" location="file://localhost/Users/Alex/Movies/Final%20Cut%20Projects/BruceX%20Test%20%20-%205K%20/">
+        <resources>
+            <format id="r1" name="FFVideoFormat5120x2700p2398" frameDuration="1001/24000s" width="5120" height="2700"/>
+            <effect id="r2" name="Far Far Away" uid=".../Titles.localized/Build In:Out.localized/Far Far Away.localized/Far Far Away.moti"/>
+            <effect id="r3" name="Blobs" uid=".../Generators.localized/Backgrounds.localized/Blobs.localized/Blobs.motn"/>
+            <effect id="r4" name="Clouds" uid=".../Titles.localized/Lower Thirds.localized/Clouds.localized/Clouds.moti"/>
+            <effect id="r5" name="Boomerang" uid=".../Transitions.localized/Stylized.localized/Photo Album.localized/Boomerang.localized/Boomerang.motr"/>
+            <effect id="r6" name="Mosaic" uid="FxPlug:66B87635-119C-40B2-BF6E-537A3165FB95"/>
+            <effect id="r7" name="Gaussian" uid=".../Effects.localized/Blur.localized/Gaussian.localized/Gaussian.moef"/>
+            <effect id="r8" name="Gaussian" uid=".../Transitions.localized/Blurs.localized/Gaussian.localized/Gaussian.motr"/>
+            <effect id="r9" name="Light Sweep" uid=".../Transitions.localized/Stylized.localized/Cinema.localized/Light Sweep.localized/Light Sweep.motr"/>
+            <effect id="r10" name="Curtain" uid=".../Generators.localized/Backgrounds.localized/Curtain.localized/Curtain.motn"/>
+            <effect id="r11" name="Radial" uid=".../Effects.localized/Blur.localized/Radial.localized/Radial.moef"/>
+        </resources>
+        <sequence duration="48048/24000s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+            <spine>
+                <title offset="0s" ref="r2" name="Far Far Away: LOREM IPSUM
+ab
+	
+Dolor sit amet, consectetuer Adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam." duration="27027/24000s" start="86399313/24000s">
+                    <video lane="-1" offset="86399313/24000s" ref="r3" name="Blobs" duration="48048/24000s" start="86399313/24000s"/>
+                    <spine lane="1" offset="28799771/8000s">
+                        <title offset="0s" ref="r4" name="Clouds: Name " duration="12012/24000s" start="86399313/24000s">
+                            <text>Name </text>
+                            <text>Description</text>
+                        </title>
+                        <transition offset="1001/24000s" ref="r5" name="Boomerang" duration="22022/24000s"/>
+                        <title offset="12012/24000s" ref="r4" name="Clouds: Name " duration="36036/24000s" start="86410324/24000s">
+                            <text>Name </text>
+                            <text>Description</text>
+                        </title>
+                    </spine>
+                    <spine lane="2" offset="28799771/8000s">
+                        <transition offset="0s" ref="r6" name="Mosaic" duration="8008/24000s"/>
+                        <title offset="0s" ref="r2" name="Far Far Away: Text 
+
+Dolor sit amet, consectetuer adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam." duration="15015/24000s" start="86399313/24000s">
+                            <filter ref="r7" name="Gaussian"/>
+                            <text>Text 
+
+Dolor sit amet, consectetuer adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam.</text>
+                        </title>
+                        <transition offset="9009/24000s" ref="r8" name="Gaussian" duration="12012/24000s"/>
+                        <title offset="15015/24000s" ref="r2" name="Far Far Away: Dolor sit amet, consectetuer adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam." duration="33033/24000s" start="86413327/24000s">
+                            <filter ref="r7" name="Gaussian"/>
+                            <text>Dolor sit amet, consectetuer adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam.</text>
+                        </title>
+                        <transition offset="23023/24000s" ref="r6" name="Mosaic" duration="25025/24000s"/>
+                    </spine>
+                    <spine lane="3" offset="28799771/8000s">
+                        <video offset="0s" ref="r3" name="Blobs" duration="21021/24000s" start="86399313/24000s">
+                            <adjust-blend amount="0.5" mode="4 (Multiply)"/>
+                        </video>
+                        <transition offset="4004/24000s" ref="r9" name="Light Sweep" duration="33033/24000s"/>
+                        <video offset="21021/24000s" ref="r10" name="Curtain" duration="27027/24000s" start="86286200/24000s">
+                            <adjust-blend amount="0.5" mode="22 (Difference)"/>
+                        </video>
+                    </spine>
+                    <filter ref="r11" name="Radial"/>
+                    <text>LOREM IPSUM
+ab
+	
+Dolor sit amet, consectetuer Adipiscing elit. Nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam.</text>
+                </title>
+                <transition offset="21021/24000s" ref="r8" name="Gaussian" duration="12012/24000s"/>
+                <title offset="27027/24000s" ref="r2" name="Far Far Away: LOREM IPSUM 2
+
+Dolor sit amet, consectetuer adipiscing elit. nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam." duration="21021/24000s" start="86425339/24000s">
+                    <filter ref="r11" name="Radial"/>
+                    <text>LOREM IPSUM 2
+
+Dolor sit amet, consectetuer adipiscing elit. nunc libero. Duis volutpat, nisi at euismod tristique, nisl enim suscipit tortor, ac laoreet nisl ante a metus. Proin ac augue. Curabitur pellentesque sem eleifend velit. Fusce quam augue, venenatis a, fringilla eget, varius at, diam. In in diam nec sapien mattis interdum. Nunc augue nibh, congue in, placerat vel, adipiscing in, dui. Mauris bibendum, metus eget commodo convallis, nunc dolor imperdiet velit, vel pellentesque dolor sapien non nisl. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis libero. Proin vestibulum odio ac eros gravida semper. Praesent pulvinar urna rutrum nulla. Proin a diam.</text>
+                </title>
+            </spine>
+        </sequence>
+    </project>
+</fcpxml>
