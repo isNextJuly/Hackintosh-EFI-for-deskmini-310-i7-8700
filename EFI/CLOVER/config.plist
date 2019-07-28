@@ -145,9 +145,23 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
+					<string>change HECI to IMEI</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					SEVDSQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					SU1FSQ==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
 					<string>change GFX0 to IGPU</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					R0ZYMA==
@@ -159,16 +173,16 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>change HECI to IMEI</string>
+					<string>change PEGP to GFX0</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
-					SEVDSQ==
+					UEVHUA==
 					</data>
 					<key>Replace</key>
 					<data>
-					SU1FSQ==
+					R0ZYMA==
 					</data>
 				</dict>
 				<dict>
@@ -189,7 +203,7 @@
 					<key>Comment</key>
 					<string>change HDAS to HDEF</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					SERBUw==
@@ -235,6 +249,20 @@
 					<key>Find</key>
 					<data>
 					WEhDSQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					WEhDXw==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Rename XHC1 to XHC (USB)</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					WEhDMQ==
 					</data>
 					<key>Replace</key>
 					<data>
@@ -320,7 +348,7 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>slide=0</string>
+		<string>slide=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -1370,7 +1398,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07803609CD1H</string>
+		<string>C07816101GUUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1400,9 +1428,9 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07W49YKJYVX</string>
+		<string>C07WL07BJYVX</string>
 		<key>SmUUID</key>
-		<string>ED15448B-BA9A-4CD5-BD94-73EFA09C1C5A</string>
+		<string>6728BDB2-1937-4E48-998D-B93D8260A672</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -1417,7 +1445,7 @@
 		<key>#NvidiaWeb</key>
 		<false/>
 		<key>CustomUUID</key>
-		<string>46D74157-C7EE-4A8D-A100-8D6F4F85DA97</string>
+		<string>8727337F-C4EE-485F-936A-C60F17BA0E9A</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>

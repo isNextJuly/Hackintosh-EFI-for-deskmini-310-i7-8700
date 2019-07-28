@@ -34,6 +34,58 @@
 	<data>
 	5wMAAA==
 	</data>
+	<key>fakesmc-key-#KEY-ui32</key>
+	<data>
+	AAAADQ==
+	</data>
+	<key>fakesmc-key-$Adr-ui32</key>
+	<data>
+	AAADAA==
+	</data>
+	<key>fakesmc-key-$Num-ui8</key>
+	<data>
+	AQ==
+	</data>
+	<key>fakesmc-key-BATP-flag</key>
+	<data>
+	AA==
+	</data>
+	<key>fakesmc-key-BEMB-flag</key>
+	<data>
+	AA==
+	</data>
+	<key>fakesmc-key-BNum-ui8</key>
+	<data>
+	AA==
+	</data>
+	<key>fakesmc-key-MSAc-ui16</key>
+	<data>
+	AAA=
+	</data>
+	<key>fakesmc-key-MSFW-ui8</key>
+	<data>
+	AQA=
+	</data>
+	<key>fakesmc-key-MSPS-ui16</key>
+	<data>
+	AAM=
+	</data>
+	<key>fakesmc-key-MSTc-ui8</key>
+	<data>
+	AA==
+	</data>
+	<key>fakesmc-key-MSWr-ui8</key>
+	<data>
+	AA==
+	</data>
+	<key>fakesmc-key-RMde-char</key>
+	<data>
+	QQ==
+	</data>
+	<key>fakesmc-key-RPlt-ch8*</key>
+	<data>
+	ajE3NAAAAAA=
+	</data>
 	<key>fmm-computer-name</key>
 	<data>
 	SuKAmXMgTWFjIG1pbmk=
@@ -44,12 +96,12 @@
 	XxASZW5hYmxlZERhdGFjbGFzc2VzWWF1dGhUb2tlbl5kaXNhYmxlQ29udGV4dFZ1c2Vy
 	aWRdZW5hYmxlQ29udGV4dFh1c2VybmFtZVhwZXJzb25JRFdhZGRUaW1lVGd1aWRYdXNl
 	ckluZm9fEBNkYXRhY2xhc3NQcm9wZXJ0aWVzEAChD18QIWNvbS5hcHBsZS5EYXRhY2xh
-	c3MuRGV2aWNlTG9jYXRvcl8QzEVBQVJBQUFBQkx3SUFBQUFBRnpxQmpJUkRtZHpMbWxq
-	Ykc5MVpDNWhkWFJvdlFDdzh6Vnl3Umk1TVkxU1hTOUFoX09yNVhHc1g1V05LaUlTUjgx
-	RXJYN3VBbTU0NklLUEZKSFFaalRVOHAyN2VWejVZMWlUcjJBeWdMMmdjWXhNRGp0YmJP
-	R05FWHo2YTkwVXhYU0JCYnlPSklwcElVQmNWbmhUUW05WV83eHhPaHZrNV9Qb090MXN4
-	WVFodmZENGYydkc0ZHZMWHd+fhEB9V56amR5empsQHFxLmNvbVoxMjc4MjA2ODk4I0HX
-	OoGOFeJcXxAkRDkyODk4MEEtODMyQy00MUY2LUI0QzYtOEEzOTdBRDVGNjk40xcYGRob
+	c3MuRGV2aWNlTG9jYXRvcl8QzEVBQVJBQUFBQkx3SUFBQUFBRjBvYmVVUkRtZHpMbWxq
+	Ykc5MVpDNWhkWFJvdlFENEl5M0FuX1JCZWp3TFdveVBhM2hNd1NRTFJQejNLVW1CWkRj
+	ejRoZUpGMTN3azdxQkNXN21tYzZkUGVIMVlZbTZNNVE0MDljRTl1b1NzNGNpNUZQdnot
+	SXpIaXVsWWgzelpSVVE4QUZtc2NLWGpXSnBCakJkamsteUJvMUpUVW5aM0UyMHdtVDNX
+	dEctOTJibGRadmRZM2ZHZ2d+fhEB9V56amR5empsQHFxLmNvbVoxMjc4MjA2ODk4I0HX
+	Sht6QYuLXxAkRDkyODk4MEEtODMyQy00MUY2LUI0QzYtOEEzOTdBRDVGNjk40xcYGRob
 	HF8QFUluVXNlT3duZXJEaXNwbGF5TmFtZV8QE0luVXNlT3duZXJGaXJzdE5hbWVfEBJJ
 	blVzZU93bmVyTGFzdE5hbWVjXyBXR1IpYldHUilhXyDRDx7VHyAhIiMkJSYnKFZhcHNF
 	bnZYaG9zdG5hbWVdaWRzSWRlbnRpZmllclZzY2hlbWVdYXV0aE1lY2hhbmlzbVpQcm9k

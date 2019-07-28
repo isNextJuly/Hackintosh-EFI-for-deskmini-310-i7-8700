@@ -19,10 +19,11 @@ Mac os 10.14.5
 - [x] 3.声卡  Ok
 - [x] 4.airdrop app store handoff ok
 - [x] 5.睡眠 ok
+- [x] 6.USB ok(未测试usb 扩展卡)
 
 
 ### 可能存在不足
-> 用   [BruceX Test  - 5K]()  测试Final Cut Pro 之后 ，导致 睡眠，关机，重启都失效。只能强制关机解决。
+> 用   [BruceX Test  - 5K](https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700/blob/master/BruceX%20Test%20%20-%205K.fcpxml)  测试Final Cut Pro 之后 ，导致 睡眠，关机，重启都失效。只能强制关机解决。
 
 > 测试步骤： 导入xml，导出母版，观察核显加速。结束。关机屏幕变一直亮黑，机器不停电。
  
