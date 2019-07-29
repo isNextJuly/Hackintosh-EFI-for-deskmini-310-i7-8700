@@ -68,4 +68,8 @@
 ### 感谢
 QQ群：580456695 以及群内各位高手
 
+### HWP开启意义
+  [http://bbs.pcbeta.com/viewthread-1798057-1-1.html](http://bbs.pcbeta.com/viewthread-1798057-1-1.html)
+
+
 
