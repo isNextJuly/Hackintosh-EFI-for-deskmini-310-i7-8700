@@ -33,7 +33,7 @@
 - [x] 6.USB ok(未测试usb 扩展卡)
 
 
-### 可能存在不足
+### 可能存在不足(其他同deskmini 310 网友的版本 试过好几个，都有这个问题。估计whatevergreen 后续升级才能解决吧)
 > 用   [BruceX Test  - 5K](https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700/blob/master/BruceX%20Test%20%20-%205K.fcpxml)  测试Final Cut Pro 之后 ，导致 睡眠，关机，重启都失效。只能强制关机解决。
 
 > 测试步骤： 导入xml，导出母版，观察核显加速。结束。关机屏幕变一直亮黑，机器不停电。
