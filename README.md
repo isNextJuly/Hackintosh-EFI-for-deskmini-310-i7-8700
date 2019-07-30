@@ -31,6 +31,7 @@
 - [x] 4.airdrop app store handoff ok
 - [x] 5.睡眠 ok
 - [x] 6.USB ok(未测试usb 扩展卡)
+- [x] 7.双屏显示(网友测试，开机后HDMI需要插拔一下，网友小技巧开机完成后立马睡眠唤醒，HDMI可不用插拔，有双排需求者注意。)
 
 
 ### 可能存在不足(其他同deskmini 310 网友的版本 试过好几个，都有这个问题。估计whatevergreen 后续升级才能解决吧)
