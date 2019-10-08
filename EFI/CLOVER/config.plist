@@ -348,7 +348,7 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>slide=1</string>
+		<string></string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -666,6 +666,8 @@
 			<string>0x0887</string>
 			<key>AFGLowPowerState</key>
 			<false/>
+			<key>Inject</key>
+			<integer>11</integer>
 			<key>ResetHDA</key>
 			<false/>
 		</dict>
@@ -1398,7 +1400,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07816101GUUE</string>
+		<string>C07836303GU1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1428,9 +1430,9 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07WL07BJYVX</string>
+		<string>C07XC0D4JYVX</string>
 		<key>SmUUID</key>
-		<string>6728BDB2-1937-4E48-998D-B93D8260A672</string>
+		<string>ABF6858A-F0AA-4A23-8C71-FADFB8D08DF3</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -1445,7 +1447,7 @@
 		<key>#NvidiaWeb</key>
 		<false/>
 		<key>CustomUUID</key>
-		<string>8727337F-C4EE-485F-936A-C60F17BA0E9A</string>
+		<string>46D74157-C7EE-4A8D-A100-8D6F4F85DA97</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
