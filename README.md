@@ -38,7 +38,8 @@
 - [x] 7.双屏显示(网友测试，开机后HDMI需要插拔一下，网友小技巧开机完成后立马睡眠唤醒，HDMI可不用插拔，有双屏需求者注意。)
 
 
-### 可能存在不足(其他同deskmini 310 网友的版本 试过好几个，都有这个问题。估计whatevergreen 后续升级才能解决吧)
+### ~~可能存在不足(其他同deskmini 310 网友的版本 试过好几个，都有这个问题。估计whatevergreen 后续升级才能解决吧)~~
+### 10.15.2 和 fcpx 10.4.8 环境下，上述可能的问题已经解决。 可能fcpx 10.4.8以下版本都会有这个问题。
 > 用   [BruceX Test  - 5K](https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700/blob/master/BruceX%20Test%20%20-%205K.fcpxml)  测试Final Cut Pro 之后 ，导致 睡眠，关机，重启都失效。只能强制关机解决。
 
 > 测试步骤： 导入xml，导出母版，观察核显加速。结束。关机屏幕变一直亮黑，机器不停电。
