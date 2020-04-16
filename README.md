@@ -9,12 +9,14 @@
 
 
 ### update
+2020-04-13  update to 10.15.4 and some kexts.
 2020-02-16  支持 原生nvram.
 
 
 ### os
 - [x] Mac os 10.14.5
 - [x] Mac os 10.15.3
+- [x] Mac os 10.15.4
 
 ### BIOS version
 
