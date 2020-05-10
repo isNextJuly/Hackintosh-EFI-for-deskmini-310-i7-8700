@@ -9,6 +9,7 @@
 
 
 ### update
+> *  2020-05-10  增加opencore引导版本。
 > *  2020-04-13  update to 10.15.4 and some kexts.
 > *  2020-02-16  支持 原生nvram.
 
@@ -17,6 +18,9 @@
 - [x] Mac os 10.14.5
 - [x] Mac os 10.15.3
 - [x] Mac os 10.15.4
+
+### 平台主板ID
+###### 随机生成的，请更换一个，大家不要都用同一个，否则影响iCloud。
 
 ### BIOS version
 
@@ -79,7 +83,7 @@
 ### EFI 包含文件
 > * EFI
 > * nvram.plist(模拟nvram需要)
-
+> * OC_EFI(用这个版本，请删除OC_)
 
 ### 感谢
 QQ群：580456695 以及群内各位高手
