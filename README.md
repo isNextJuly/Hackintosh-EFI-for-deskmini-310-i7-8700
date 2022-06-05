@@ -13,6 +13,7 @@
 > *  2020-05-10  增加opencore引导版本。
 > *  2020-04-13  update to 10.15.4 and some kexts.
 > *  2020-02-16  支持 原生nvram.
+> *  2022-06-05  升级到 12.4 (21F79).感谢：https://github.com/twotreeszf/DeskMiniH310EFI
 
 
 ### os
